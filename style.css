@@ -1,0 +1,29 @@
+body {
+	background-color: gray;
+	font-family: "Sour Gummy", sans-serif;
+}
+
+.container {
+	background-color: white;
+	margin: auto;
+	width: 842px;
+	outline-color: black;
+	text-align: center;
+}
+
+.btn-primary {
+	background-color: black;
+
+}
+.button:hover {
+	background-color: #ff8269;
+}
+
+mark {
+  background-color: black;
+  color: white;
+}
+
+value {
+	color: grey;
+}
